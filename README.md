@@ -1,4 +1,4 @@
-# Ecos Terminal Real-Time Voice Interaction System (Python)
+# Ecos Terminal: Real-Time Voice & Input System – Technical Tool (Python)
 
 Developed a modular text-to-speech system with configurable voice
 profiles and hotkey-triggered dialogue playback. Implemented dynamic
